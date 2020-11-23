@@ -1,1 +1,1 @@
-# practiceGit_shimoda
+# GitHub練習
